@@ -11,7 +11,7 @@
 *Game engine:*
 * Unity
 _________________
-[![Visits Badge](https://badges.pufler.dev/visits/{dklarin}/{dklarin})](https://josedromero.com)
+[![Visits Badge](https://badges.pufler.dev/visits/{dklarin}/{dklarin})](https://www.google.com)
 
 
 
