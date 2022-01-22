@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Danijel
 
-Skills: REACT / JS / HTML / CSS / MONGODB
+Skills: REACT / JS / HTML / CSS / MONGODB / PYTHON
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning MongoDB 
+- 🌱 I’m currently learning AI, Data Science and Machine Learning. 
 - 📫 How to reach me: danijel.klarin@gmail.com 
 
 
